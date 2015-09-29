@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rubytest
 Version  : 0.8.1
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/rubytest-0.8.1.gem
 Source0  : https://rubygems.org/downloads/rubytest-0.8.1.gem
 Summary  : No detailed summary available
